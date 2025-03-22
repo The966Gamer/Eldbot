@@ -1,0 +1,12 @@
+{
+  "name": "eldbot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mineflayer": "^4.26.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "puppeteer": "^21.3.8",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
